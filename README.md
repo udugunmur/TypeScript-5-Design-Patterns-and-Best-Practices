@@ -56,3 +56,5 @@ With the following software and hardware list you can run all code files present
 lives in Ireland, where he works as a senior staff software engineer for WP Engine. He is the co-author of The React Workshop and Advanced Go Programming in 7 Days, and maintains many open source projects on GitHub.
 Theofanis works extensively with Faust.js, a Next.js framework written in TypeScript, and is actively developing a next-generation Headless WordPress toolkit leveraging TSDocs. He is also passionate about experimenting with AI technologies and exploring their applications in modern development workflows.
 
+## Errata
+* Chapter 1: For Question 4 in Q&A, the correct answer should be: "UML class diagrams primarily focus on the static structure of a system. However, UML also includes Sequence Diagrams and Activity Diagrams that capture dynamic behavior."
